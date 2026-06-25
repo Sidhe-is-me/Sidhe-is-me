@@ -7,7 +7,7 @@
 
 ### AI Governance & Assurance · Inclusive-AI Ally
 
-I test AI systems to see whether they can be trusted — and whether they actually work for the people they're meant to serve, including disabled people and others who usually get left out. For 14+ years I've done accessibility and human-factors work using a simple loop: take a rule, turn it into a check, gather evidence, record what passed or failed, and fix it. I now apply that same loop to AI, using the **NIST AI RMF** and the **EU AI Act**.
+I test AI systems to see whether they can be trusted — and whether they actually work for the people they're meant to serve, including disabled people and others who usually get left out. My background is in accessibility and human-factors work, where I use a simple loop: take a rule, turn it into a check, gather evidence, record what passed or failed, and fix it. I now apply that same loop to AI, using the **NIST AI RMF** and the **EU AI Act**.
 
 - 🤖 **AI assurance & governance** — testing and evaluating AI, checking it against the rules, and designing human oversight; working toward the **AIGP** certification
 - 🧭 **Ally HCI** — my name for building and checking AI that works for disabled and excluded people from the start, not as an afterthought
